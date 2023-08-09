@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ShA4ifSbyKS/s3vtcZUSH3Ur2Uzx9G4xdBWYw9LnxZZ4k2ryPR1dLM4q4sC7YyH/zuUIZjvecLvXP8J9aejSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danhcaothanh\\source\\repos\\Danh\\Danh.Core\\Danh.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danhcaothanh\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

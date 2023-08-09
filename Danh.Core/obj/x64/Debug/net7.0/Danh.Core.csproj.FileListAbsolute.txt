@@ -1,0 +1,12 @@
+C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\bin\x64\Debug\net7.0\Danh.Core.deps.json
+C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\bin\x64\Debug\net7.0\Danh.Core.dll
+C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\bin\x64\Debug\net7.0\Danh.Core.pdb
+C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\obj\x64\Debug\net7.0\Danh.Core.csproj.AssemblyReference.cache
+C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\obj\x64\Debug\net7.0\Danh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\obj\x64\Debug\net7.0\Danh.Core.AssemblyInfoInputs.cache
+C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\obj\x64\Debug\net7.0\Danh.Core.AssemblyInfo.cs
+C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\obj\x64\Debug\net7.0\Danh.Core.csproj.CoreCompileInputs.cache
+C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\obj\x64\Debug\net7.0\Danh.Core.dll
+C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\obj\x64\Debug\net7.0\refint\Danh.Core.dll
+C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\obj\x64\Debug\net7.0\Danh.Core.pdb
+C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\obj\x64\Debug\net7.0\ref\Danh.Core.dll

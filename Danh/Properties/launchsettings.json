@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Danh (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Danh (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}

@@ -1,0 +1,76 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="Danh.Views.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:features="using:Danh.Items"
+                        
+    >
+
+    <Page.Resources>
+        
+    </Page.Resources>
+
+    <Grid x:ConnectionId='2' x:Name="ContentArea">
+        <Grid RowDefinitions="Auto,*">
+            <Grid ColumnDefinitions="Auto,*,Auto">
+                <SplitButton Grid.Column="2" Padding="0">
+                    <SplitButton.Content>
+                        <Button x:ConnectionId='6' BorderThickness="0"                          >
+                            <StackPanel Orientation="Horizontal" Spacing="10">
+                                <Viewbox Width="16" Height="16">
+                                    <FontIcon Glyph="&#xED0E;" />
+                                </Viewbox>
+                                <TextBlock Text="Add More"/>
+                            </StackPanel>
+                        </Button>
+                    </SplitButton.Content>
+
+                    <SplitButton.Flyout>
+                        <Flyout Placement="Auto">
+                            <StackPanel >
+                                <Button BorderThickness="0">
+                                    <StackPanel Orientation="Horizontal" Spacing="10">
+                                        <Viewbox Width="16" Height="16">
+                                            <FontIcon Glyph="&#xE838;" />
+                                        </Viewbox>
+                                        <TextBlock Text="Open files in folder"/>
+                                    </StackPanel>
+                                </Button>
+                            </StackPanel>
+                        </Flyout>
+                    </SplitButton.Flyout>
+                </SplitButton>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <GridView x:ConnectionId='3' Name="FileGridView"
+                      Margin="0"
+                      ItemsSource="{Binding ImageItems}">
+                    <GridView.ItemTemplate>
+                        <DataTemplate                                 >
+                            <Grid>
+                                <StackPanel>
+                                    <Viewbox Width="200" Height="200" >
+                                        <FontIcon Glyph="&#xE8B9;" />
+                                    </Viewbox>
+                                    <TextBlock Text="{Binding Title}" Foreground="Black"/>
+                                    <TextBlock Text="{Binding Weight}"/>
+                                </StackPanel>
+                            </Grid>
+                        </DataTemplate>
+                    </GridView.ItemTemplate>
+                    
+                    <GridView.ItemContainerStyle>
+                        <Style TargetType="GridViewItem">
+                            <Setter Property="Margin" Value="2"/>
+                        </Style>
+                    </GridView.ItemContainerStyle>
+                </GridView>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>
+
