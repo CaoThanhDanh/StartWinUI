@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>81c3dbc3-a624-407c-9b6f-1f42df876dcd</PackageIdentityName>
     <PackageIdentityPublisher>CN=danhcaothanh</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\danhcaothanh\source\repos\Danh\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\danhcaothanh\source\repos\Danh\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>6922767C8789CCF85DD33D6962B9ACDC23D658F0247A5665E772EF47055C96A6</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>81c3dbc3-a624-407c-9b6f-1f42df876dcd_1.0.0.0_x64__g8vbfx24vg1h0</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>81c3dbc3-a624-407c-9b6f-1f42df876dcd_g8vbfx24vg1h0!App</RegisteredUserModeAppID>
@@ -26,32 +26,32 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-09T09:34:13.064</Modified>
+      <Modified>2023-08-10T10:30:29.209</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-09T09:34:12.585</Modified>
+      <Modified>2023-08-10T10:30:28.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.runtimeconfig.json">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.runtimeconfig.json">
       <PackagePath>Danh.runtimeconfig.json</PackagePath>
-      <Modified>2023-08-09T08:23:02.757</Modified>
+      <Modified>2023-08-10T10:00:27.038</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.dll">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.dll">
       <PackagePath>Danh.dll</PackagePath>
-      <Modified>2023-08-09T09:34:12.249</Modified>
+      <Modified>2023-08-10T10:30:28.561</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Danh.exe</PackagePath>
-      <Modified>2023-08-09T09:34:12.269</Modified>
+      <Modified>2023-08-10T10:30:28.595</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.deps.json">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.deps.json">
       <PackagePath>Danh.deps.json</PackagePath>
-      <Modified>2023-08-09T09:05:52.943</Modified>
+      <Modified>2023-08-10T10:00:26.913</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\danhcaothanh\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1045,9 +1045,9 @@
       <PackagePath>clrcompression.dll</PackagePath>
       <Modified>2016-11-05T04:34:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh.Core\bin\x64\Debug\net7.0\Danh.Core.dll">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh.Core\bin\x64\Debug\net7.0\Danh.Core.dll">
       <PackagePath>Danh.Core.dll</PackagePath>
-      <Modified>2023-08-09T08:21:12.619</Modified>
+      <Modified>2023-08-10T10:00:20.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\danhcaothanh\.nuget\packages\colorcode.winui\2.0.13\lib\net5.0-windows10.0.18362\ColorCode.WinUI.pri">
       <PackagePath>ColorCode.WinUI.pri</PackagePath>
@@ -1105,35 +1105,35 @@
       <PackagePath>WinUIEx.pri</PackagePath>
       <Modified>2023-05-10T22:25:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2023-08-08T06:03:04.334</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <Modified>2023-08-08T06:03:04.335</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <Modified>2023-08-08T06:03:04.336</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <Modified>2023-08-08T06:03:04.336</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <Modified>2023-08-08T06:03:04.337</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <Modified>2023-08-08T06:03:04.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <Modified>2023-08-08T06:03:04.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\danhcaothanh\source\repos\Danh\Danh\Assets\WindowIcon.ico">
+    <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\Assets\WindowIcon.ico">
       <PackagePath>Assets\WindowIcon.ico</PackagePath>
       <Modified>2023-08-08T06:03:04.046</Modified>
     </AppxPackagedFile>

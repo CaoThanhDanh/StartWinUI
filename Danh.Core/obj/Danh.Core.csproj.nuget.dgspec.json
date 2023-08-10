@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danhcaothanh\\source\\repos\\Danh\\Danh.Core\\Danh.Core.csproj": {}
+    "D:\\Danh_practical\\StartProjectWinUI\\StartWinUI\\Danh.Core\\Danh.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danhcaothanh\\source\\repos\\Danh\\Danh.Core\\Danh.Core.csproj": {
+    "D:\\Danh_practical\\StartProjectWinUI\\StartWinUI\\Danh.Core\\Danh.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danhcaothanh\\source\\repos\\Danh\\Danh.Core\\Danh.Core.csproj",
+        "projectUniqueName": "D:\\Danh_practical\\StartProjectWinUI\\StartWinUI\\Danh.Core\\Danh.Core.csproj",
         "projectName": "Danh.Core",
-        "projectPath": "C:\\Users\\danhcaothanh\\source\\repos\\Danh\\Danh.Core\\Danh.Core.csproj",
+        "projectPath": "D:\\Danh_practical\\StartProjectWinUI\\StartWinUI\\Danh.Core\\Danh.Core.csproj",
         "packagesPath": "C:\\Users\\danhcaothanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danhcaothanh\\source\\repos\\Danh\\Danh.Core\\obj\\",
+        "outputPath": "D:\\Danh_practical\\StartProjectWinUI\\StartWinUI\\Danh.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

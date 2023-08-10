@@ -13,7 +13,7 @@ internal sealed partial class MainPage : Page, INotifyPropertyChanged
 {
     public event PropertyChangedEventHandler PropertyChanged;
 
-    public ObservableCollection<ImageItem> ImageItems { get; private set; } = new();
+    public ObservableCollection<VideoItem> VideoItems { get; private set; } = new();
 
 
     public MainViewModel ViewModel
@@ -31,12 +31,13 @@ internal sealed partial class MainPage : Page, INotifyPropertyChanged
 
     private void Page_Loaded(object sender, RoutedEventArgs e)
     {
-        ImageItems.Clear();
-        ImageItems.Add(new ImageItem { Title = "Image A", Weight = "100MB" });
-        ImageItems.Add(new ImageItem { Title = "Image B", Weight = "100MB" });
-        ImageItems.Add(new ImageItem { Title = "Image C", Weight = "100MB" });
-        ImageItems.Add(new ImageItem { Title = "Image D", Weight = "100MB" });
-        PropertyChanged?.Invoke(this, new(nameof(ImageItems)));
+        VideoItems.Clear();
+        VideoItems.Add(new VideoItem { VideoName = "Ngày Mai Em Đi Mất", Chanel = "Lofi Music", Views = "10N lượt xem", Time = "1 ngày trước" });
+        VideoItems.Add(new VideoItem { VideoName = "Lại Nhớ Em Rồi", Chanel = "Lofi Music", Views = "100N lượt xem", Time = "10 ngày trước" });
+        VideoItems.Add(new VideoItem { VideoName = "Đơn Giản Anh Yêu Em", Chanel = "Lofi Music", Views = "10Tr lượt xem", Time = "13 ngày trước" });
+        VideoItems.Add(new VideoItem { VideoName = "Điệp Khúc Chia Tay", Chanel = "Lofi Music", Views = "100N lượt xem", Time = "17 ngày trước" });
+
+    PropertyChanged?.Invoke(this, new(nameof(VideoItems)));
     }
     private void OptionsButton_Click(SplitButton sender, SplitButtonClickEventArgs args)
     {
