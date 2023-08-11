@@ -829,6 +829,9 @@
     <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\winuiex\2.2.0\lib\net6.0-windows10.0.18362\WinUIEx.pri">
       <PackagePath>WinUIEx.pri</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\Chanel\1.jpg">
+      <PackagePath>Assets\Chanel\1.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
@@ -846,6 +849,18 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\Thumbnail\1.jpg">
+      <PackagePath>Assets\Thumbnail\1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\Thumbnail\2.jpg">
+      <PackagePath>Assets\Thumbnail\2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\Thumbnail\3.jpg">
+      <PackagePath>Assets\Thumbnail\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\Thumbnail\4.jpg">
+      <PackagePath>Assets\Thumbnail\4.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>

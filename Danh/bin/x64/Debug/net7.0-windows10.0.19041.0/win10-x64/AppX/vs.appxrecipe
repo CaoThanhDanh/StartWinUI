@@ -29,29 +29,29 @@
     <AppXManifest Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-10T09:47:58.381</Modified>
+      <Modified>2023-08-11T09:03:27.226</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-10T09:47:57.010</Modified>
+      <Modified>2023-08-11T09:03:26.377</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.runtimeconfig.json">
       <PackagePath>Danh.runtimeconfig.json</PackagePath>
-      <Modified>2023-08-10T09:47:55.442</Modified>
+      <Modified>2023-08-11T08:40:29.445</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.dll">
       <PackagePath>Danh.dll</PackagePath>
-      <Modified>2023-08-10T09:47:52.769</Modified>
+      <Modified>2023-08-11T09:03:25.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Danh.exe</PackagePath>
-      <Modified>2023-08-10T09:47:52.879</Modified>
+      <Modified>2023-08-11T09:03:25.843</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.deps.json">
       <PackagePath>Danh.deps.json</PackagePath>
-      <Modified>2023-08-10T09:47:55.186</Modified>
+      <Modified>2023-08-11T08:40:29.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1047,7 +1047,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\bin\x64\Debug\net7.0\Danh.Core.dll">
       <PackagePath>Danh.Core.dll</PackagePath>
-      <Modified>2023-08-10T09:47:21.521</Modified>
+      <Modified>2023-08-11T08:40:02.345</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dell\.nuget\packages\colorcode.winui\2.0.13\lib\net5.0-windows10.0.18362\ColorCode.WinUI.pri">
       <PackagePath>ColorCode.WinUI.pri</PackagePath>
@@ -1105,6 +1105,10 @@
       <PackagePath>WinUIEx.pri</PackagePath>
       <Modified>2023-05-10T22:25:22.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\Chanel\1.jpg">
+      <PackagePath>Assets\Chanel\1.jpg</PackagePath>
+      <Modified>2023-08-11T02:45:41.745</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2023-08-09T10:00:09.484</Modified>
@@ -1128,6 +1132,22 @@
     <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <Modified>2023-08-09T10:00:09.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\Thumbnail\1.jpg">
+      <PackagePath>Assets\Thumbnail\1.jpg</PackagePath>
+      <Modified>2023-08-11T02:45:41.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\Thumbnail\2.jpg">
+      <PackagePath>Assets\Thumbnail\2.jpg</PackagePath>
+      <Modified>2023-08-11T02:45:41.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\Thumbnail\3.jpg">
+      <PackagePath>Assets\Thumbnail\3.jpg</PackagePath>
+      <Modified>2023-08-11T02:45:42.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\Thumbnail\4.jpg">
+      <PackagePath>Assets\Thumbnail\4.jpg</PackagePath>
+      <Modified>2023-08-11T02:45:42.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MyAloha\DanhCsharp\StartWinUI\Danh\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>

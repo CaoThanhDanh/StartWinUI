@@ -604,6 +604,7 @@ C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\w
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Views\ShellPage.g.cs
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\App.xaml
+C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\MainWindow.xaml
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Styles\FontSizes.xaml
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Styles\TextBlock.xaml
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Styles\Thickness.xaml
@@ -611,8 +612,8 @@ C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\w
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Views\ContentGridPage.xaml
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Views\MainPage.xaml
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Views\ShellPage.xaml
-C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\MainWindow.xaml
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\App.xbf
+C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\MainWindow.xbf
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Styles\FontSizes.xbf
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Styles\TextBlock.xbf
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Styles\Thickness.xbf
@@ -620,7 +621,6 @@ C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\w
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Views\ContentGridPage.xbf
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Views\MainPage.xbf
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Views\ShellPage.xbf
-C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\MainWindow.xbf
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.GeneratedMSBuildEditorConfig.editorconfig
 C:\MyAloha\DanhCsharp\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.AssemblyInfoInputs.cache

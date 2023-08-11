@@ -7,15 +7,23 @@ using System.Threading.Tasks;
 
 namespace Danh.Items
 {
-    class ImageItem : INotifyPropertyChanged
+    class VideoItem : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler? PropertyChanged;
 
-        public string Title
+        public string VideoName
         {
             get; set;
         }
-        public string Weight
+        public string Chanel
+        {
+            get; set;
+        }
+        public string Views
+        {
+            get; set;
+        }
+        public string Time
         {
             get; set;
         }

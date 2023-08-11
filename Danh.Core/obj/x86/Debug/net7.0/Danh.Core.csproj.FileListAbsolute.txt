@@ -1,0 +1,12 @@
+C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\bin\x86\Debug\net7.0\Danh.Core.deps.json
+C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\bin\x86\Debug\net7.0\Danh.Core.dll
+C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\bin\x86\Debug\net7.0\Danh.Core.pdb
+C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\obj\x86\Debug\net7.0\Danh.Core.csproj.AssemblyReference.cache
+C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\obj\x86\Debug\net7.0\Danh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\obj\x86\Debug\net7.0\Danh.Core.AssemblyInfoInputs.cache
+C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\obj\x86\Debug\net7.0\Danh.Core.AssemblyInfo.cs
+C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\obj\x86\Debug\net7.0\Danh.Core.csproj.CoreCompileInputs.cache
+C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\obj\x86\Debug\net7.0\Danh.Core.dll
+C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\obj\x86\Debug\net7.0\refint\Danh.Core.dll
+C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\obj\x86\Debug\net7.0\Danh.Core.pdb
+C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\obj\x86\Debug\net7.0\ref\Danh.Core.dll
