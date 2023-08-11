@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f9+u91g4AiobDC7GRuP4nWm4F3KK3aH/kpQC7V7Z3+YKerEogHUwNW4XVR18xz2ugsOXZYiaI7+mbgUikp1aSw==",
+  "success": true,
+  "projectFilePath": "D:\\Danh_practical\\StartProjectWinUI\\StartWinUI\\Danh.Core\\Danh.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danhcaothanh\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
