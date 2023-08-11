@@ -1,1 +1,1 @@
-C:\Users\danhcaothanh\source\repos\Danh\Danh\Danh.csproj;x64
+C:\MyAloha\DanhCsharp\StartWinUI\Danh\Danh.csproj;x64

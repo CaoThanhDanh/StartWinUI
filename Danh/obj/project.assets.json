@@ -16120,23 +16120,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danhcaothanh\\.nuget\\packages\\": {},
+    "C:\\Users\\Dell\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danhcaothanh\\source\\repos\\Danh\\Danh\\Danh.csproj",
+      "projectUniqueName": "C:\\MyAloha\\DanhCsharp\\StartWinUI\\Danh\\Danh.csproj",
       "projectName": "Danh",
-      "projectPath": "C:\\Users\\danhcaothanh\\source\\repos\\Danh\\Danh\\Danh.csproj",
-      "packagesPath": "C:\\Users\\danhcaothanh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danhcaothanh\\source\\repos\\Danh\\Danh\\obj\\",
+      "projectPath": "C:\\MyAloha\\DanhCsharp\\StartWinUI\\Danh\\Danh.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\MyAloha\\DanhCsharp\\StartWinUI\\Danh\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\danhcaothanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -16145,14 +16145,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0-windows10.0.19041": {
           "targetAlias": "net7.0-windows10.0.19041.0",
           "projectReferences": {
-            "C:\\Users\\danhcaothanh\\source\\repos\\Danh\\Danh.Core\\Danh.Core.csproj": {
-              "projectPath": "C:\\Users\\danhcaothanh\\source\\repos\\Danh\\Danh.Core\\Danh.Core.csproj"
+            "C:\\MyAloha\\DanhCsharp\\StartWinUI\\Danh.Core\\Danh.Core.csproj": {
+              "projectPath": "C:\\MyAloha\\DanhCsharp\\StartWinUI\\Danh.Core\\Danh.Core.csproj"
             }
           }
         }
