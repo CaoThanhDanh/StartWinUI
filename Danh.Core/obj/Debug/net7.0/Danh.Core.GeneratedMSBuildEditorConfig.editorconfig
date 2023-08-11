@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Danh.Core
+<<<<<<< HEAD
 build_property.ProjectDir = C:\MyAloha\DanhCsharp\StartWinUI\Danh.Core\
+=======
+build_property.ProjectDir = d:\Danh_practical\StartProjectWinUI\StartWinUI\Danh.Core\
+>>>>>>> 65e6ff61065d347696604fca6fb7c769b7412859
