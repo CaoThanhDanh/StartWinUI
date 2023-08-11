@@ -1,18 +1,17 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "wZogoTZ9tJ7G3pW9WUoRewd0i3JruEEOzMRSc6klFAbb2etN3Mthns3wtc9qye+EFA2PW5i4YgJjP8Us991dKg==",
-  "success": true,
-  "projectFilePath": "C:\\MyAloha\\DanhCsharp\\StartWinUI\\Danh.Core\\Danh.Core.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
-=======
   "dgSpecHash": "f9+u91g4AiobDC7GRuP4nWm4F3KK3aH/kpQC7V7Z3+YKerEogHUwNW4XVR18xz2ugsOXZYiaI7+mbgUikp1aSw==",
   "success": true,
   "projectFilePath": "D:\\Danh_practical\\StartProjectWinUI\\StartWinUI\\Danh.Core\\Danh.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danhcaothanh\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
->>>>>>> 65e6ff61065d347696604fca6fb7c769b7412859
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Danh_practical\\StartProjectWinUI\\StartWinUI\\Danh.Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

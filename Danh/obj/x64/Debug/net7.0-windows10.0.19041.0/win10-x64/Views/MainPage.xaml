@@ -103,16 +103,13 @@
                             <Grid ColumnDefinitions="Auto,Auto,*,Auto" Background="Aqua">
                                 <!-- Item -->
                                 <Grid>
-                      
-                                        <Viewbox Width="20" Height="20">
-                                            <FontIcon Glyph="&#xF5B0;" />
-                                        </Viewbox>
+                                    <Viewbox Width="20" Height="20">
+                                        <FontIcon Glyph="&#xF5B0;" />
+                                    </Viewbox>
                                 </Grid>
 
-                            <Grid Grid.Column="1">
-
-                                        <TextBlock Text="kkkk"/>
-
+                                <Grid Grid.Column="1">
+                                    <TextBlock Text="kkkk"/>
                                 </Grid>
 
                                 <StackPanel Grid.Column="2">

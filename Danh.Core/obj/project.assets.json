@@ -55,23 +55,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {},
+    "C:\\Users\\danhcaothanh\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyAloha\\DanhCsharp\\StartWinUI\\Danh.Core\\Danh.Core.csproj",
+      "projectUniqueName": "D:\\Danh_practical\\StartProjectWinUI\\StartWinUI\\Danh.Core\\Danh.Core.csproj",
       "projectName": "Danh.Core",
-      "projectPath": "C:\\MyAloha\\DanhCsharp\\StartWinUI\\Danh.Core\\Danh.Core.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\MyAloha\\DanhCsharp\\StartWinUI\\Danh.Core\\obj\\",
+      "projectPath": "D:\\Danh_practical\\StartProjectWinUI\\StartWinUI\\Danh.Core\\Danh.Core.csproj",
+      "packagesPath": "C:\\Users\\danhcaothanh\\.nuget\\packages\\",
+      "outputPath": "D:\\Danh_practical\\StartProjectWinUI\\StartWinUI\\Danh.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danhcaothanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -80,7 +80,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -123,5 +122,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Danh_practical\\StartProjectWinUI\\StartWinUI\\Danh.Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
