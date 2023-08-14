@@ -18,7 +18,7 @@
             <Grid ColumnDefinitions="Auto,*,Auto">
                 <SplitButton Grid.Column="2" Padding="0">
                     <SplitButton.Content>
-                        <Button BorderThickness="0" Click="ShowDialog_Click" >
+                        <Button BorderThickness="0">
                             <StackPanel Orientation="Horizontal" Spacing="10">
                                 <Viewbox Width="16" Height="16">
                                     <FontIcon Glyph="&#xED0E;" />
@@ -46,7 +46,7 @@
             </Grid>
 
             <Grid Grid.Row="1">
-                <GridView Name="FileGridView"  Visibility="Collapsed"
+                <GridView Name="FileGridView"  Visibility="Visible"
                       Margin="0"
                       ItemsSource="{Binding VideoItems}">
                     <GridView.ItemTemplate>
@@ -94,41 +94,6 @@
                         </Style>
                     </GridView.ItemContainerStyle>
                 </GridView>
-
-                <ListView Name="FileListView"  Visibility="Visible"
-                      Margin="0"
-                      ItemsSource="{Binding VideoItems}">
-                    <ListView.ItemTemplate>
-                        <DataTemplate>
-                            <Grid ColumnDefinitions="Auto,Auto,*,Auto" Background="Aqua">
-                                <!-- Item -->
-                                <Grid>
-                                    <Viewbox Width="20" Height="20">
-                                        <FontIcon Glyph="&#xF5B0;" />
-                                    </Viewbox>
-                                </Grid>
-
-                                <Grid Grid.Column="1">
-                                    <TextBlock Text="kkkk"/>
-                                </Grid>
-
-                                <StackPanel Grid.Column="2">
-                                    <TextBlock Text="kkkk"/>
-                                </StackPanel>
-
-                                <Grid Grid.Column="3">
-                                    <TextBlock Text="kkkk"/>
-                                </Grid>
-                            </Grid>
-                        </DataTemplate>
-                    </ListView.ItemTemplate>
-
-                    <ListView.ItemContainerStyle>
-                        <Style TargetType="GridViewItem">
-                            <Setter Property="Margin" Value="2"/>
-                        </Style>
-                    </ListView.ItemContainerStyle>
-                </ListView>
             </Grid>
         </Grid>
     </Grid>

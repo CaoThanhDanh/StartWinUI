@@ -29,29 +29,29 @@
     <AppXManifest Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-11T09:24:31.052</Modified>
+      <Modified>2023-08-14T04:09:07.716</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-11T09:24:30.683</Modified>
+      <Modified>2023-08-14T04:09:07.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.runtimeconfig.json">
       <PackagePath>Danh.runtimeconfig.json</PackagePath>
-      <Modified>2023-08-11T09:23:15.491</Modified>
+      <Modified>2023-08-14T04:02:23.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.dll">
       <PackagePath>Danh.dll</PackagePath>
-      <Modified>2023-08-11T09:24:30.425</Modified>
+      <Modified>2023-08-14T04:09:07.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Danh.exe</PackagePath>
-      <Modified>2023-08-11T09:24:30.454</Modified>
+      <Modified>2023-08-14T04:09:07.325</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\Danh.deps.json">
       <PackagePath>Danh.deps.json</PackagePath>
-      <Modified>2023-08-11T09:23:15.393</Modified>
+      <Modified>2023-08-14T04:02:23.660</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\danhcaothanh\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1047,7 +1047,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Danh_practical\StartProjectWinUI\StartWinUI\Danh.Core\bin\x64\Debug\net7.0\Danh.Core.dll">
       <PackagePath>Danh.Core.dll</PackagePath>
-      <Modified>2023-08-11T09:23:08.003</Modified>
+      <Modified>2023-08-14T04:02:18.348</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\danhcaothanh\.nuget\packages\colorcode.winui\2.0.13\lib\net5.0-windows10.0.18362\ColorCode.WinUI.pri">
       <PackagePath>ColorCode.WinUI.pri</PackagePath>

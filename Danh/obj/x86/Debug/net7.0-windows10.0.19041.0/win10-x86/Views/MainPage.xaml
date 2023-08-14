@@ -18,7 +18,7 @@
             <Grid ColumnDefinitions="Auto,*,Auto">
                 <SplitButton Grid.Column="2" Padding="0">
                     <SplitButton.Content>
-                        <Button x:ConnectionId='9' BorderThickness="0"                          >
+                        <Button BorderThickness="0">
                             <StackPanel Orientation="Horizontal" Spacing="10">
                                 <Viewbox Width="16" Height="16">
                                     <FontIcon Glyph="&#xED0E;" />
@@ -102,8 +102,12 @@
                         <DataTemplate                                 >
                             <Grid ColumnDefinitions="Auto,Auto,*,Auto" Background="Aqua">
                                 <!-- Item -->
-                               
-                                    
+                                <Grid>
+                                    <Viewbox Width="20" Height="20">
+                                        <FontIcon Glyph="&#xF5B0;" />
+                                    </Viewbox>
+                                </Grid>
+
                                 <Grid Grid.Column="1">
                                     <TextBlock Text="kkkk"/>
                                 </Grid>
