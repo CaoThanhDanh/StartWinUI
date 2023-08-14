@@ -46,7 +46,7 @@
             </Grid>
 
             <Grid Grid.Row="1">
-                <GridView x:ConnectionId='3' Name="FileGridView"  Visibility="Visible"
+                <GridView x:ConnectionId='3' Name="FileGridView"  Visibility="Collapsed"
                       Margin="0"
                       ItemsSource="{Binding VideoItems}">
                     <GridView.ItemTemplate>
@@ -94,6 +94,23 @@
                         </Style>
                     </GridView.ItemContainerStyle>
                 </GridView>
+                
+                <ListView Visibility="Visible"
+                      Margin="0"
+                      ItemsSource="{Binding VideoItems}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate                                 >
+                            <Grid RowDefinitions="*,Auto">
+                                <!-- Item -->
+                                <Grid Background="Aqua">
+                                    <StackPanel>
+                                        <TextBlock Text="Cao Thành Danh"/>
+                                    </StackPanel>
+                                </Grid>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
             </Grid>
         </Grid>
     </Grid>
